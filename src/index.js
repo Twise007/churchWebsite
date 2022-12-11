@@ -4,9 +4,12 @@ import { BrowserRouter, Routes, Route, } from 'react-router-dom';
 
 import App from './App';
 import About from './components/About';
+import Footer from './components/Footer';
 import Herobox from './components/Herobox';
+import Ministers from './components/Ministers';
 import Navbar from './components/Navbar';
 import Service from './components/Service';
+import Testimonies from './components/Testimonies';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,7 +21,10 @@ root.render(
       <Route path="home" element={<Herobox />} />
       <Route path="about" element={<About />} />
       <Route path="services" element={<Service />} />
-    </Routes> 
+      <Route path="testimonies" element={<Testimonies />} />
+      <Route path="ministers" element={<Ministers />} />
+    </Routes>
+    <Footer />
     </BrowserRouter>
   </React.StrictMode>
 );

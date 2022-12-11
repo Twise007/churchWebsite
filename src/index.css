@@ -5,14 +5,12 @@
 
 :root {
     --color-primary: #0000ff;
-    --color-secondary: #6419E6;
-    --color-white: #fff;
-    --color-red: red;
   }
 
 body {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   background: white;
 }
 

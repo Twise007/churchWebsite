@@ -1,0 +1,9 @@
+.testimoniesBox {
+    background: #000;
+}
+
+@media (max-width: 750px){
+    .testimoniesBox {
+        margin-top: 27%;
+    }
+}

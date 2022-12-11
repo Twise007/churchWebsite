@@ -16,12 +16,11 @@ const cardData = {
     ]
 };
 
-
 const About = () => {
   return (
     <div id="about">
       <div className="min-h-screen py-12" style={{background:"#F2F2F2"}}>
-        <div className="hero-content text-center">
+        <div className="hero text-center">
             <div className="max-w-md">
                 <h5 className="text-2xl font-bold" style={{color:"#6419E6"}}>Welcome to</h5>
                 <h1 className="text-5xl font-bold">House of Glory</h1>

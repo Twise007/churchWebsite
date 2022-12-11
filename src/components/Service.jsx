@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box } from '../styles/Box';
-import '../styles/service.css'
+import '../styles/service.css';
 import Pic4 from '../data/pic4.jpg';
 import Pic5 from '../data/pic5.jpg';
 import Pic6 from '../data/pic6.jpg';

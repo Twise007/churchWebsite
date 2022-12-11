@@ -4,6 +4,7 @@ import Herobox from './components/Herobox';
 import About from './components/About';
 import Service from './components/Service';
 import Testimonies from './components/Testimonies';
+import Ministers from './components/Ministers';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <About />
     <Service />
     <Testimonies />
+    <Ministers />
    </div>
   );
 }
