@@ -16,6 +16,21 @@ const cardData = {
       {id: '4', 
       desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipitLorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit??Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?', 
       name:'Anonymous', location:'Anonymous'},
+      {id: '3', 
+      desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?',
+      name:'John Doe', location:'Lagos, Nigeria'},
+      {id: '4', 
+      desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipitLorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit??Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?', 
+      name:'Anonymous', location:'Anonymous'},
+      {id: '3', 
+      desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?',
+      name:'John Doe', location:'Lagos, Nigeria'},
+      {id: '4', 
+      desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipitLorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit??Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?', 
+      name:'Anonymous', location:'Anonymous'},
+      {id: '1', 
+      desc:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit rerum, id architecto unde sequi suscipit?', 
+      name:'Emmanuel Shola', location:'Lagos, Nigeria'},
     ]
 };
 

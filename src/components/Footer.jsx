@@ -14,17 +14,17 @@ const Footer = () => {
             </p>
         </div> 
         <div>
-            <span className="footer-title">Social</span> 
-                <div className="grid grid-flow-col gap-4">
-                  <a href=''><FaFacebook /></a>
-                  <a href=''><FaTwitter /></a>
-                  <a href=''><FaFacebook /></a>
+            <span className="footer-title" style={{color:"#fff"}}>Social</span> 
+                <div className="grid grid-flow-col gap-4" style={{fontSize:"20px", color:"#fff"}}>
+                  <a href='facebook.com'><FaFacebook /></a>
+                  <a href='twitter.com'><FaTwitter /></a>
+                  <a href='facebook.com'><FaFacebook /></a>
                 </div>
             </div>        
     </footer>
-    <footer className="footer footer-center p-4 text-base-content">
+    <footer className="footer footer-center p-4 text-base-content" style={{borderTop:"1px solid"}}>
     <div>
-      <p style={{color:'#fff'}}>Copyright © 2022 - All right reserved by House of Glory Ministry</p>
+      <p style={{color:'#fff', }}>Copyright © 2022 - All right reserved by House of Glory Ministry</p>
     </div>
   </footer>
   </div>
