@@ -1,0 +1,29 @@
+@media (max-width: 800px){
+    .navbarBox {
+       display: none;
+        background: red;
+    }
+}
+
+@media (min-width: 800px){
+    .mobileBox {
+        display: none;
+    }
+}
+.mobileBox {
+    padding-right: 15px;
+}
+
+.mobileBox ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: fixed;
+    top: 64px;
+    right: 0px;
+    width: 300px;
+    height: 100vh;
+    background-color: #f2f2f2;
+    padding: 40px 0 0 10px;
+}

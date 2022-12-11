@@ -1,0 +1,16 @@
+.serviceCard{
+    width: 33.333%;
+    height: 35rem;
+    position: relative;
+    border-radius: 0;
+
+}
+
+
+@media (max-width: 750px){
+    .serviceCard {
+        width: 100%;
+    }
+}
+
+
