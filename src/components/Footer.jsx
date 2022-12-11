@@ -26,6 +26,7 @@ const Footer = () => {
     <div>
       <p style={{color:'#fff', }}>Copyright © 2022 - All right reserved by House of Glory Ministry</p>
     </div>
+    <a href="teetech.netlify.net">TeeTech</a>
   </footer>
   </div>
   )
